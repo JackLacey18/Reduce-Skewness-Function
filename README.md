@@ -1,5 +1,5 @@
 # Reduce-Skewness-Function
-Reduce the skewness of a data frame using this function.
+Reduce the skewness of a Pandas data frame using this function.
 
 The function will accept a data frame, check whether there is positive or negative skew in each column and reduce or increase the quantile in each column in an effort to remove significant outliers in the data frame.
 
